@@ -1,0 +1,209 @@
+---------------------------------------------------------------------------
+To Do List 
+---------------------------------------------------------------------------
+CraftTweaker optimization
+	-init script
+	-priority preprocessing
+Loading screen tips
+Display names to change (suggestions?)
+Don't give books on join
+	-add 'acquire book' to Advancements	
+Tools
+	- Make mid-game  recipe for vanilla tools
+			possibly add back wood & stone tools
+			from items output bya machine such as press
+	-tooltips for earthworks tools because they all do the same dumb thing or remove/hide some.
+		-handaxe doesn't harvest logs
+		-all rotate blocks
+Recipe Changes
+	-Flint & Steel - replace iron ingot with steel nugget or ingot
+		- requires new recipe for steel Or 
+			(IE blast bricks need nether brick & blaze powder )
+		- add 'A Flint and Steel is not made of Flint and Iron. ;)' to tips.cfg
+	-Guide books
+		- add minecolonies guidebook recipe	
+	-items/ recipes
+		-aluminum block and recipe
+		-platinum block and recipe (ContentTweaker)
+		-cobalt block and recipe
+		-item to ignite portal before acquiring steel - lighter mod
+		-remove stick recipe from planks - alternative recipe
+	-Make recipes more expensive for gating items
+		-Online Picture Frame
+			must include a circuit board or similar
+	-Furnace 
+		make logs be fuel
+Unification / Oredicts
+	-Rustic
+		Oredict fences, gates, stairs
+	-Compost - oreDict (is production/use balanced??)
+		-Change names by use/source?
+		-Add Rockhounding composter inputs
+			-other plants
+			-foods
+		-Add minecolonies compost inputs
+		-remove crafting table recipes Forestry compost	as output 
+		-remove / change crafting table recipes Forestry compost as input (loam, humus)
+		-all compost made in Rockhounding composter or acquired from minecolonies
+		-all compost useable in Forestry Fermenter	
+	-Bees and Honey (Forestry, Rustic, Harvestcraft, BoP, Animania)
+		-Unify, or disable?
+		-Hive generation 
+	-Candles/Wax 
+	-Fishing Rods (Vanilla, JAFF, Aquaculture)
+	-Milk (animania, forestry, harvestcraft, pizzacraft, vanilla)
+	-Ores / Dusts / Nuggets
+		preferred item
+	-Salt (Animania, Floricraft, Rockhounding:Chemistry)
+	-yarn/fiber/string (Floricraft, Immersive Engineering)
+	-cloth/fabric
+	-Hemp seeds (floricraft, IE)
+		fiber, yarn, twine, fabric, cloth, rope
+	-Truffles (Animania, Rockhounding:Surface) 
+		-rockhounding truffles disabled currently
+		-design a solution to keep all truffles
+Mob Spawning
+	Better Animals plus animal spawn changes
+		-reduce boar spawn biomes
+		-add more biomes to hostiles
+	Disable/restrict Mob Spawning overworld - add to Nether spawning
+		-Cave Spiders
+		-Creepers
+		-Enderman
+		-Husk
+		-Illager
+		-Skellies
+		-Spider
+		-Stray
+		-Vex
+		-Witch
+		-Zombies
+		-Zombie Villager
+Minecolonies
+	NPC Names
+Statues
+	Statue core Recipe ?
+	Statue core as mob loot ?
+Advancements
+	-Set all toasts to false
+	-Remove MC advancements related to Wooden Tools  
+	- Triumph
+	-Color change hovering over buttons
+	-Add Advancements related to starting tools
+	-Add Advancements related to iron ore smelting/bloomery
+	-Acquire books
+	-Remove Toast Control - (disable toasts with Triumph)
+
+----------------------------------------------------------------------
+Probable/Possible Additions
+----------------------------------------------------------------------
+Advancement Book
+	Animal Net
+Barrels Drums Storage & More
+Bouncy Creepers
+	Chickens
+	Clothesline
+Controlling
+Culinary Constructs
+	Engineers Tools
+	Factory Tech
+Fancy Block Particles
+Farming for Blockheads
+	Gamestages 
+HarvestWithDispenser
+	Hatchery
+	Immersive Cables (for Refined Storage)
+	Industrial Renewal
+	More Chickens
+	Mowzie's Mobs
+MPUtils
+Open Blocks Elevator
+Organic Creepers
+Phosphor
+	Refined Storage
+	Roost
+Simple Storage Network
+	Smart Crafting Table
+	Snow Variants
+	Statues Rechiseled vs Statues(installed mod)
+Survivalism -TAC
+SwingThroughGrass	
+TipTheScales
+Waddles	
+
+----------------------------------------------------------------------
+Available Machines - Check for CrT support
+----------------------------------------------------------------------
+Cooking for Blockheads
+	-cooking oven
+Forestry (ModTweaker)
+	-Carpenter
+	-Centrifuge
+	-Charcoal Pile
+	-Fermenter
+	-Moistener
+	-Squeezer
+	-Still
+	-Thermionic Fabricator
+Immersive Engineering
+	-Alloy Smelter
+	-Arc Furnace
+	-Blast Furnace
+	-Blueprint
+	-Bottling Machine
+	-Coke Oven
+	-Crusher
+	-Diesel Helper
+	-Excavator
+		excavator
+		mineral mix
+	-Fermenter
+	-Metal Press
+	-Mixer
+	-Refinery
+	-Squeezer
+Immersive Petroleum
+	-Distillation
+	-Fuel Registration
+	-Lubricant
+	-Reservoir
+Rockhounding Chemistry
+	-Chemical Extractor
+	-Crystal Pulling Crucible
+	-ElectroChemical CSTR
+	-Gas Condenser/Expansion Chamber
+	-Gas Purifier
+	-Gasification Plant
+	-Heat Exchanger
+	-Heavy Drum
+	-Lab Blender
+	-Lab Oven
+	-Leaching Vat
+	-Material Cabinet
+	-Metal Alloyer
+	-Mineral Sizer
+	-Pollutant Fluids
+	-Pollutant Gases
+	-Precipitation Chamber
+	-Profiling Bench
+	-Reforming Reactor
+	-Retension Vat
+	-Seasoning Rack
+	-Slurry Pond
+	-Toxic Mutation
+	-Transposer
+	-Vapor Deposition Chamber
+Rockhounding OreTiers
+	-Bloomery
+	-Coal Refiner
+	-Drying Pallet
+Rockhounding Rocks
+	-Carving Bench
+	-Cutting Station
+	-Rock Vending System
+	-Sculpting Bench
+	-Stone Rammer
+Rockhounding Surface
+	-Compost Bin
+	-Vivarium
+	-Wood Incubator
