@@ -1,0 +1,16 @@
+
+background = addStretchedTexture("top_left", "loadingscreens:textures/gui/background/background.png")
+background.setRelRender(1, 1)
+
+tips = addRandomText("top_left")
+tips.setAbsXOffset(5)
+tips.setAbsYOffset(10)
+tips.addTip("The Minecraft Furnace isn't hot enough to melt ores. Try a Bloomery or a Blast Furnace.")
+tips.addTip("Punching trees is a waste of time! Y'all better start looking for something to make some tools.")
+tips.addTip("There are no wood or stone tools. There must be some alternative.")
+tips.addTip("Dry your flowers on a Drying Pallet to make dyes.")
+tips.addTip("Grass Fibers are an important item to help you craft early tools and can also be made into compost.")
+tips.addTip("Watch out for hostile animals. Coyotes, Boars, Wolves and Bears, Oh My!")
+
+
+

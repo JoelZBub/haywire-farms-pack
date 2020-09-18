@@ -1,0 +1,905 @@
+Haywire Township (Haywire Farms Redux)
+Modlist and Changelog
+
+---------------------------------------------------------------------------
+-Versions 0.1.0 thru 0.2.1 - (Initial Compilation)
+March 18 - April 4, 2019
+Forge Version - 14.23.5.2815
+FoamFix Version - 0.10.3
+OptiFine Version - E3
+---------------------------------------------------------------------------
+
+-- Mod Freezes --
+-----------------
+Forge - 14.23.5.2815
+Biomes O' Plenty - 7.0.1.2419 (Type = Release)
+JEI - 4.15.0.268 (Type = Release)
+
+-- Added Mods --
+----------------
+Advanced Chimneys (by EnderLanky)
+Animania (by Purplicious_Cow)
+Aquaculture (by Shadowclaimer)
+ArchitectureCraft - ElytraDev Version (by darkevilmac)
+Athenaeum (by codetaylor)
+Base Metals (by jriwanek)
+Baubles (by azanor)
+Better Advancements (by Way2muchnoise)
+Better Animals Plus (by Cybercat5555)
+Better Foliage (by octarine_noise)
+BetterFps (by Guichaguri)
+BiblioCraft (by JDSinclair)
+Biomes O' Plenty (by Glitchfiend)
+Birds Nests (by cleverpanda714)
+BnBGamingCore (by BloodNBonesGaming)
+BNBGamingLib (by BloodNBonesGaming)
+Bookshelf (by Darkhax)
+Brickery (by beeshroom)
+Career Bees (by RWTema)
+Carry On (by Tschipp)
+Chameleon (by jaquadro)
+Chance Cubes (by turkey2349)
+Chisel (by tterrag1098)
+Clay WorldGen (by EwyBoy)
+Comforts (by theillusivec4)
+ConnectedTexturesMod (by tterrag1098)
+Cooking for Blockheads (by BlayTheNinth)
+CraftPresence (by cdagaming)
+CraftStudio API (by ZeAmateis)
+CraftTweaker (by jaredlll08)
+CreativeCore (by CreativeMD)
+Cucumber Library (by BlakeBr0)
+Custom Main Menu (by lumien231)
+Decocraft2 (by RazzleberryFox)
+Default Options (by BlayTheNinth)
+Dirt2Path (by marwat208)
+Dropt (by codetaylor)
+Dynamic Surroundings (by OreCruncher)
+Earthworks (by Alsnder)
+Fairy Lights (by pau101)
+Faithful x32 (by xMrVizzy)
+Fast Leaf Decay (by Olafskii)
+Fence Jumper (by TheRealp455w0rd)
+Fence Overhaul (by The_WeatherPony)
+Ferdinand's Flowers (by c0_0ry)
+FindMe (by Buuz135)
+Floricraft (by Hosta_Plantain)
+FoamFix for Minecraft (by asiekierka)
+Forestry (by SirSengir)
+ForgeEndertech (by EnderLanky)
+Fullscreen Windowed (Borderless) for Minecraft (by hancin)
+Furnus (by KidsDontPlay)
+GraveStone Mod (by EuhDawson)
+Guidebook (by gigaherz)
+Hwyla (by TehNut)
+Immersive Engineering (by BluSunrize)
+Immersive Petroleum (by theFlaxbeard)
+Immersive Tech (by ferroo2000)
+In Control! (by McJty)
+Item Scroller (by masa_)
+ItemZoom (by mezz)
+JEI Bees (by bdew)
+Just a Few Fish (by Tmtravlr)
+Just Enough HarvestCraft (JEHC) (by mrAppleXZ)
+Just Enough Items (JEI) (by mezz)
+Just Enough Petroleum (by BordListian)
+Just Enough Resources (JER) (by Way2muchnoise)
+LimeLib (by KidsDontPlay)
+LittleTiles (by CreativeMD)
+MalisisCore (by Ordinastie)
+MalisisDoors (by Ordinastie)
+Minecolonies (by H3lay)
+MMD OreSpawn (by jriwanek)
+Mo' Bends (by iwoplaza)
+MoarSigns (by Gory_Moon)
+More Bees (by Tencao)
+MultiBags (by zarak0315)
+MultiBeds (by ShetiPhian)
+Nature's Compass (by ChaosTheDude)
+Nether Metals (by knoxhack)
+NetherPortalFix (by BlayTheNinth)
+No More Punching Tree (by TheAwesomeGem)
+NoNausea (by lumien231)
+OnlinePictureFrame (by CreativeMD)
+Ore Excavation (by Funwayguy)
+OreLib (by OreCruncher)
+Outfox (by KaiserYoshi)
+Pam's HarvestCraft (by MatrexsVigil)
+Pickle Tweaks (by BlakeBr0)
+Pixel Reality - Atmosphere (by Wedhro)
+Pixel Reality - Luminance (by Wedhro)
+PizzaCraft (by Tiviacz1337)
+Placebo (by Shadows_of_Fire)
+Platforms (by ShetiPhian)
+PTRLib (by RazzleberryFox)
+Redstone Flux (by TeamCoFH)
+Resource Loader (by lumien231)
+Rockhounding Mod: Chemistry (by GlobbyPotato)
+Rockhounding Mod: Core (by GlobbyPotato)
+Rockhounding Mod: Ore Tiers (by GlobbyPotato)
+Rockhounding Mod: Rocks (by GlobbyPotato)
+Rockhounding Mod: Surface (by GlobbyPotato)
+Rope Bridge (by LordCazsius)
+Rustic (by mangoose3039)
+Rustic BOP Woods (by WolfieWaffle)
+Shadowfacts' Forgelin (by shadowfactsmc)
+ShetiPhianCore (by ShetiPhian)
+Signpost (by Gollorum)
+Simple Corn (by cleverpanda714)
+Simply Jetpacks 2 (by Tomson124)
+Smooth Font (by bre2el)
+Sound Filters (by Tmtravlr)
+Statues (by svennieke)
+stimmedcow : NoMoreRecipeConflict (by Oliv1er)
+Storage Drawers (by jaquadro)
+Storage Drawers Extras (by jaquadro)
+Swan Boats (by Soggy_Mustache)
+Toast Control (by Shadows_of_Fire)
+Tool Upgrades (by XxRexRaptorxX)
+TorchBowMod (by noriokun4649)
+TorchMaster (by xalcon)
+Triumph (by BloodNBonesGaming)
+Wallpapers Craft (by LapotokSanya)
+Water Strainer (by Rubironi)
+Wawla - What Are We Looking At (by Darkhax)
+Xaero's Minimap (by xaero96)
+Xaero's World Map (by xaero96)
+XP Holder (by Insane96)
+ZarakLib (by zarak0315)
+
+
+
+-- Changes --
+`````````````
+CraftTweaker scripts:
+	-made Lath and Plaster blocks less expensive and grindy to make
+	-Miscellaneous recipe balancing
+	-Renamed blocks/items
+		Harvestcraft Spaghetti to "Mom's Spaghetti"
+		Minecraft Coal to "Sub-Bituminous Coal" 
+		Pickletweaks flint axe to "Flint Hatchet"
+		Pickletweaks flint shovel to "Flint Spade" 
+	-Hid broken baskets Floricraft
+	-Removed Wooden Tools Recipes
+	-Removed Floricraft Flower Basket and Lunch Basket (Crash when placing)
+	-Added Tooltips for broken Floricraft Baskets
+	-Changed recipes requiring wooden tools to require flint equivalent
+	-Dropt scripts
+		leaves drops sticks
+		grass drops grass fibers
+	-Removed Harvestcraft pizzas
+
+Configs:
+	-animania.cfg
+		showModUpdateNotification=false
+	-betterfoliage
+		distance and sizes lowered 
+	-birdsnest.cfg
+		ALLOW_DECAY_DROPS=false
+		ALLOW_STACKING=true
+		USE32_TEXTURE=true
+	-BoP
+		Default to BoP World Type"=true
+	-Chance Cubes
+		HolidayRewards=false
+		UserSpecificRewards=false
+	-Custom Main Menu
+		mainmenu.json
+	-dropt
+		ENABLE_PROFILE_LOG_OUTPUT=true
+	-ferdinandsflowers.cfg
+		"It's Not My Birthday"=false
+	-minecolonies.cfg
+		holidayFeatures=false
+	-pickletweaks
+		coal_piece=false
+	-SmoothFont - Verdana - 24 bit +10% size
+	-structurize.cfg
+		allowPlayerSchematics=false
+Keybinds:
+	-Xaero's Minimap
+		New Waypoint set to 'N'
+
+
+---------------------------------------------------------------------------
+- Version 0.3.0 -
+April 17, 2019
+Forge Version - 14.23.5.2815
+FoamFix Version - 0.10.5
+OptiFine Version - E3
+---------------------------------------------------------------------------
+
+-- Mod Freezes --
+-----------------
+Forge - 14.23.5.2815
+Biomes O' Plenty - 7.0.1.2419 (Type = Release)
+JEI - 4.15.0.268 (Type = Release)
+
+-- Updated Mods --
+----------------
+Better Animals Plus - 5.0.1 to 5.0.2
+BnBGamingCore - 0.10.0 to 0.11.0
+BnBGamingLib - 2.17.5 to 2.17.6
+Cooking for Blockheads - 6.4.69 to 6.4.70
+CraftPresence - 1.5.2 to 1.5.3
+CreativeCore - 1.9.41 to 1.9.42
+FoamFix - 0.10.3 to 0.10.5
+ForgeEndertech - 4.4.12.0-0273 to 4.4.13.0-0279 to 4.4.14.0-284 to 4.4.15.0-287
+LittleTiles - 1.5.0-pre130 to 1.5.0-pre133
+MineColonies - 0.10.239-BETA to 0.10.245-BETA to 0.10.256-BETA to 0.10.259-RELEASE	
+Pam's HarvestCraft - 1.12.2zb to 1.12.2zc
+PizzaCraft - 1.4.2 to 1.4.5
+Rockhounding Mod: Ore Tiers -3.07 to 3.10
+Rockhounding Mod: Rocks - 3.18 to 3.20
+Triumph - 3.16.0 to 3.17.0
+Xaero's Minimap - 1.16.2 to 1.16.3
+
+-- Added Mods --
+----------------
+
+-- Removed Mods --
+------------------
+Base Metals - Too much extra clutter, unnecessary 
+Brickery (Server crash loading client classes)
+Furnus
+MMD OreSpawn
+Nether Metals
+Simply Jetpacks 2
+
+-- Changes --
+-------------
+CraftTweaker scripts:
+	-Disable all ore smelting in furnace (Use IE Coke)
+	-Add grass fibers to Rockhounding Composter
+	-Added steel paxel recipe (IE steel tools)
+Configs
+	-betteranimalsplus.cfg
+		deleted and regenerated config for mod update
+	-chisel.cfg
+		invar=false
+	-ferdinandsflowers.cfg
+		B:"Ore Dictionary Dyes"=false	
+	-pickletweaks.cfg
+	   Repair Kits:
+	 	B:aluminum=false
+	    B:bronze=false
+	    B:constantan=false
+	    B:copper=false
+	    B:electrum=false
+	    B:flint=true
+	    B:invar=false
+	    B:lead=false
+	    B:nickel=false
+	    B:platinum=false
+	    B:silver=false
+	    B:tin=false
+	    B:wood=false
+	-rockhounding_surface.cfg
+		ENABLE_TRUFFLES=false
+
+
+---------------------------------------------------------------------------
+- Version 0.3.1 -
+April 18-30 , 2019
+Forge Version - 14.23.5.2831
+FoamFix Version - 0.10.5
+OptiFine Version - E3
+---------------------------------------------------------------------------
+
+-- Mod Freezes --
+-----------------
+Caliper - 1.1.41 (Type = Release)
+Forge - 14.23.5.2831
+Biomes O' Plenty - 7.0.1.2419 (Type = Release)
+JEI - 4.15.0.268 (Type = Release)
+
+-- Updated Mods --
+----------------		
+Forge - 2815 to 2831
+Better Animals Plus - 5.0.2 to 6.0.1
+CraftPresence - 1.5.3 to 1.5.3.1
+CreativeCore - 1.9.42 to 1.9.43 to 1.9.45
+Fairy Lights - 2.1.5 to 2.1.6
+ForgeEndertech - 4.4.15.0-0287 to 4.4.15.1-0295 to 4.4.16.0-0306
+InControl - 3.9.6 to 3.9.7
+LittleTiles - 1.5.0-pre133 to 1.5.0-pre134 to 1.5.0-pre135
+MultiBags - 0.0.6 to 0.0.6.1
+Online Picture Frame - 1.4.23 to 1.4.24
+Ore Excavation - 1.4.137 to 1.4.140
+Pickle Tweaks - 2.1.2 to 2.1.3
+SimpleCorn - 2.4.1 to 2.5.2 to 2.5.5 to 2.5.6 to 2.5.9
+Statues - 0.8.7.2 to 0.8.7.3
+Xaero's Minimap - 1.16.3 to 1.16.4 to 1.16.5
+ZarakLib - 0.0.5R to 0.0.6R
+
+-- Added Mods --
+----------------
+Caliper (by Darkhax) 1.1.41 
+Console Filter (by ChaosTheDude)
+LagGoggles 4.1 to 4.3
+ModTweaker (by  jaredlll08)
+Surge (by Darkhax)
+Tips (by Darkhax)
+
+-- Removed Mods --
+------------------
+
+-- Changes --
+-------------
+CraftTweaker scripts:
+	-added util script
+	-added recipes to pickletweaks secondary colored dyes
+	-added BoP flowers/plants to dyeIngredient oredict
+	-added ferdinands flowers to dyeIngredient oredict
+	-added minecraft items to dyeIngredients oredict
+	-added rustic berries/grapes to dyeIngredient oredict
+	-added harvestcraft flowers/plants/fruits to dyeIngredients
+	-added dyeIngredients to Drying Pallet
+	-added forestry mouldy wheat, decaying wheat, wood pulp, mulch to rockhounding composter
+	-changed all Ferdinand glass block recipes to use PickleTweaks dyes
+	-changed all Floricraft balloons to use oredict dyes
+	-changed ArchitectureCraft tools recipes to require steel
+	-changed chisel:chisel_iron recipe to require steel
+	-changed chisel:chisel_iron Display Name to "The CHISEL Chisel"
+	-changed architecturecraft:chisel Display name to "The OTHER Chisel"
+	-removed/hid ferdinands flowers dyes
+	-removed/hid ferdinands flowers blocks and slabs
+	-removed/hid BoP dyes JEI
+	-removed IE metal rods Crafting table recipes - machine only
+	-removed minecraft dye from oredict
+	-removed rustic berries from oredict
+	-removed BoP dyes from oredict
+	-removed BoP bamboo and river cane from ore:stickWood
+	-removed crafting bench recipes IE rods
+	-removed stone tools and weapons
+Dropt Scripts:
+	-added stick drops chance to Forestry leaves (leaf_drops.zs)
+Configs:
+	-betteradvancements.cfg
+		B:doAdvancementsBackgroundFade=false
+	-consolefilter.cfg
+		(various console spam)
+	-fairylights.cfg
+		B:"Enable Jingling"=false
+	-ferdinandsflowers.cfg
+		B:"Dye Brick Slabs"=false
+		B:"Dye Bricks"=false
+		B:"Ore Dictionary Dyes"=false
+	-pickletweaks.cfg
+	   Repair Kits:	
+		B:stone=false
+	-triumph/Triumph.txt
+		removeModAdvancements(true)
+
+
+---------------------------------------------------------------------------
+- Version 0.3.2 -
+April 30- May 17, 2019
+Forge Version - 14.23.5.2831
+FoamFix Version - 0.10.5
+OptiFine Version - E3
+---------------------------------------------------------------------------
+
+-- Mod Freezes --
+-----------------
+Caliper - 1.1.44 (Type = Release)
+Forge - 14.23.5.2831
+Biomes O' Plenty - 7.0.1.2419 (Type = Release)
+JEI - 4.15.0.268 (Type = Release)
+Wawla - 2.5.271 (Type = Release)
+
+-- Updated Mods --
+----------------		
+Caliper - 1.1.41 to 1.1.44
+Comforts - 1.4.1.1 to 1.4.1.2
+Sampler - 1.83 to 1.84
+Toast Control - 1.8.0 to 1.8.1
+Wawla - 2.5.269 to 2.5.271
+Xaero's Minimap - 1.16.5 to 1.16.6
+
+-- Removed Mods --
+------------------
+InControl - (not functioning as expected)
+Just A Few Fish - (Trying to spawn on world load hangs client)
+Tips - (Duplicate funtionality with Loading Screens)
+
+-- Added Mods --
+----------------
+Better Animal Models (by Cybercat5555, itsmeow)
+Loading Screens (by BloodNBonesGaming, Blagerist)
+
+-- Changes --
+-------------
+CraftTweaker scripts:
+	-added bibliocraft color map to dyeUnify
+	-added forestry cherries to dyeIngredients oredict
+	-added tooltips to Hatchet and Spade so they show when searcing axe and shovel
+	-fixed fairy lights recipes to use pickletweaks dye
+	-fixed bibliocraft recipes to use pickletweaks dye
+	-fixed lapis-as-dye recipes to use pickletweaks dye
+	-fixed inksack-as-dye recipes to use pickletweaks dye
+	-fixed dried-cactus-as-dye recipes to use pickletweaks dye
+	-fixed cocoabeans-as-dye recipe to use pickletweaks dye
+	-removed cocoabean to brown dye in mortar&pestle
+	-all vanilla dye recipes use oredict dye
+	-hide/remove vanilla dye
+	-fixed harvestcraft candle recipes to use pickletweaks dyes
+	-removed pickletweaks dye powder from vanilla dye recipes
+	-changed display name for green dye to dehydrated cactus
+	-replace all mortar&pestle recipes with PickleTweaks M&P
+Configs:
+	-animania.cfg
+		added various modded foods to foods animals can eat
+	-betteranimals.cfg
+		disabled unwanted models
+	-betteranimalsplus.cfg
+		B:coyotesHostileInDaytime=true 
+		adjusted spawn biomes for Tarantula
+		adjusted spawn biomes for Coyote
+		disabled Herschgeist 
+		disabled goats (duplication of mobs with Animania)
+	-dsurround.cfg
+		added animal sounds as Menu loaded signal	
+	-loadingscreens.cfg
+		added tips
+		added loading screen png	
+
+
+---------------------------------------------------------------------------
+- Version 0.3.3 -
+May 18 - 28 , 2019
+Forge Version - 14.23.5.2831
+FoamFix Version - 0.10.5
+OptiFine Version - E3
+---------------------------------------------------------------------------
+
+-- Mod Freezes --
+-----------------
+Caliper - 1.1.44 (Type = Release)
+Forge - 14.23.5.2831
+Biomes O' Plenty - 7.0.1.2439 (Type = Release)
+JEI - 4.15.0.268 (Type = Release)
+
+-- Updated Mods --
+------------------
+Advanced Chimneys - 3.3.20.0-0277 to 3.4.0.0-0334
+Better Animal Models - 5.1 to 5.2.1
+Biomes O' Plenty - 7.0.1.2419 to 7.0.1.2439
+Chance Cubes - 4.0.0.270 to 4.0.0.271
+CraftTweaker - 4.1.17 to 4.1.18
+Floricraft - 4.4.2 to 4.4.3
+ForgeEndertech - 4.4.16.0-306 to 4.4.19.0-0341
+Guidebook - 2.8.3 to 2.9.1
+Rockhouonding Mod: Chemistry - 3.36 to 3.39
+Rockhouonding Mod: Core - 3.21 to 3.22
+Signpost - 1.08 to 1.08.2
+Simple Corn - 2.5.9 to 2.5.10
+Wawla - 2.5.271 to 2.5.273
+Xaero's Minimap - 1.16.6 to 1.16.9
+
+
+-- Added Mods --
+----------------
+Butterflys - (by SoggyStache)
+Engineer's Doors (by Nihiltres)
+Engineer's Decor (by wilechaote)
+Immersive Posts (by TwistedGate)
+Iron Jetpacks (by BlackBr0)
+Modern Lights (by AcnessDev)
+The Birdwatching Mod (by ikerleon02)
+
+-- Changes --
+-------------
+CraftTweaker scripts:
+	-added rockhounding logs to ore:logWood
+Configs:
+
+
+---------------------------------------------------------------------------
+-Version 0.4.0-  
+May 29 - , 2019
+Forge Version - 14.23.5.2838
+FoamFix Version - 0.10.5
+OptiFine Version - E3
+---------------------------------------------------------------------------
+
+-- Mod Freezes --
+-----------------
+Caliper - 1.1.44 (Type = Release)
+Biomes O' Plenty - 7.0.1.2439 (Type = Release)
+JEI - 4.15.0.268 (Type = Release)
+
+-- Updated Mods --
+------------------
+Forge
+Advanced Chimneys - 3.4.0.0-0334 to 3.5.0.0-0353
+Butterflys - 1.0.0 to 1.0.2
+Bookshelf - 2.3.577 to 2.3.581
+CraftPresence - 1.5.3.1 to 1.5.5
+Engineer's Decor - 1.0.6 to 1.0.7(release)
+ForgeEndertech - 4.4.19.0-0341 to 4.4.20.1-0354
+Pam's HarvestCraft - 1.12.2zc to 1.12.2zd
+Rockhounding Mod: Chemistry - 3.39 to 3.41
+SmoothFont - 1.16.2 to 2.0
+Statues - 0.8.7.3 to 0.8.8.1
+Xaero's Mnimap - 1.16.9 to 1.17
+
+-- Removed Mods --
+------------------
+Fullscreen Windowed (Borderless) for Minecraft
+
+-- Added Mods --
+----------------
+Borderless Mining (by comp500, hancin)
+
+-- Changes --
+-------------
+CraftTweaker scripts:
+   -added modded planks to oredict
+   -added modded sticks to oredict
+   -added modded stairs to oredict
+   -added modded fences to oredict
+   -added modded gates to oredict
+   -added modded slabs to oredict
+
+Configs:
+	-rockhounding_surface.cfg
+		B:WOOD_OREDICT=true
+
+
+---------------------------------------------------------------------------
+-Version 0.5
+Sept , 2020
+Forge Version - 14.23.5.2854
+FoamFix Version - 0.10.10
+OptiFine Version - E3
+---------------------------------------------------------------------------
+
+-- Mod Freezes --
+-----------------
+Caliper - 1.1.44 (Type = Release)
+CraftPresence - 1.7.0 (Type = Release)
+CraftTweaker - 4.1.20.586 (Type = Release)
+Forge - 14.23.5.2854
+JEI - 4.16.1.301 (Type = Release)
+Wawla - 2.5.271 (Type = Release)
+
+-- Updated Mods --
+------------------
+Advanced Chimneys (3.5.0.0 build 0353 to 3.5.14.0-build.0505)
+Animania (1.6.2 to 1.7.3)
+ArchitectureCraft (3.80 to 3.98)
+Atheneum (1.16.0 to 1.19.1)
+Better Animal Models (5.2.1 to 5.3.0)
+Better Animals Plus (6.0.1 to 9.0.1)
+Better Foliage (2.2.0 to 2.3.1)
+Biomes O Plenty (7.0.1.2439 to 7.0.1.2444)
+BnBGamingCore (0.11.0 to 0.12.0)
+Bookshelf (2.3.581 to 2.3.590)
+Bookworm (2.2.0 to 2.5.2.1)
+Butterflys (1.0.2 to 1.0.3)
+CarryOn (1.12.1 to 1.12.3.15)
+Chance Cubes (4.0.0.271 to 5.0.2.345)
+Chisel (0.2.1.35 to 1.0.2.45)
+Comforts (1.4.1.2 to 1.4.1.3)
+ConnectedTexturesMod (0.3.2.20 to 1.0.2.31)
+Cooking for Blockheads (6.4.70 to 6.5.0)
+CraftPresence (1.5.5 to 1.7.0)
+CraftTweaker (4.1.18 to 4.1.20.586)
+CreativeCore (1.9.45 to 1.10.25)
+CustomMainMenu (2.0.8 to 2.0.9.1)
+Cyclops Core (1.5.0 to 1.6.6)
+Decocraft (2.6.2 to 2.6.3)1q2bns=\ m
+Dropt (1.14.0 to 1.18.0)
+Dynamic Surroundings (3.5.4.3 to 3.6.1.0)
+Engineer's Decor (1.0.7 to 1.1.2)
+Engineer's Doors (0.8.0 to 0.9.1)
+Fairy Lights (2.1.6 to 2.1.11)
+FoamFix (0.10.5 to )
+Forestry (5.8.2.387 to 5.8.2.422)
+ForgeEndertech (4.4.20.0-build.354 to 4.5.4.0-build0534)
+GraveStone Mod (1.10.2 to 1.10.3)
+Guidebook (2.9.1 to 2.9.5)
+Immersive Engineering (0.12-89 to 0.12-98)
+Immersive Posts (0.1.2 to 0.2.1)
+JEHC (1.6.3 to )
+JEI (4.15.0.268 to 4.16.1.301)
+JER (0.8.9.48 to 0.9.2.60)
+LagGoggles (4.3hotfix to 5.8-132) 
+LittleTiles (1.5.0pre135 to 1.5.0pre199_52)
+MineColonies (0.10.259 to 0.11.811BETA)
+Mo' Bends (0.24 to 1.0.0-BETA-2)
+ModTweaker (4.0.17 to 4.0.18)
+Multibeds (1.4.4 to 1.4.6)
+Nature's Compass (1.5.1 to 1.8.5)
+Online Picture Frame (1.4.24 to 1.5.0pre1)
+OreExcavation (1.4.140 to 1.4.150)
+OreLib (3.5.2.2 to 3.6.0.1)
+OutFox (0.1.3 to 0.1.5)
+Pam's HarvestCraft (zd to zg)
+PizzaCraft (1.4.5 to 2.0.19)
+Redstone Flux (2.1.0.6 to 2.1.1.1)
+Rockhounding Mod: Chemistry (3.41 to 3.52)
+Rockhounding Mod: Surface (3.14 to 3.15)
+Rustic (1.1.0 to 1.1.6)
+Shadowfacts' Forgelin (1.8.2 to 1.8.4)
+Signpost (1.08.2 to 1.08.5)
+Simple Corn (2.5.10 to 2.5.12)
+Smooth Font (2.0 to 2.1.2)
+Sound Filters (0.10 to 0.12.1)
+Statues (0.8.81 to 0.8.9.2)
+Storage Drawers (5.3.8 to 5.4.2)
+Surge (2.0.77 to 2.0.79)
+The Birdwatching Mod (1.0.1 to 1.6.0)
+Tool Upgrades (2.0.2 to 2.0.3)
+Torchmaster (1.7.1.74 to 1.8.4.84)
+Triumph (3.17.0 to 3.19.2)
+Wawla (2.5.273 to 2.6.275)
+Xaero's Minimap (1.17 to 20.22.0)
+Xaero's World Map (1.3.5 to 1.10.3)
+
+-- Removed Mods --
+------------------
+LagGoggles
+Sampler
+TickCentral
+
+-- Added Mods --
+----------------
+Phosphor (by jellysquid)
+Super Hot (by KrokoOnAir)
+
+-- Changes --
+-------------
+CraftTweaker scripts:
+
+Configs:
+Removed unused configs
+
+	
+---------------------------------------------------------------------------
+To Do List 
+---------------------------------------------------------------------------
+CraftTweaker optimization
+	-init script
+	-priority preprocessing
+Loading screen tips
+Display names to change (suggestions?)
+Don't give books on join
+	-add 'acquire book' to Advancements	
+Tools
+	- Make mid-game  recipe for vanilla tools
+			possibly add back wood & stone tools
+			from items output bya machine such as press
+	-tooltips for earthworks tools because they all do the same dumb thing or remove/hide some.
+		-handaxe doesn't harvest logs
+		-all rotate blocks
+Recipe Changes
+	-Flint & Steel - replace iron ingot with steel nugget or ingot
+		- requires new recipe for steel Or 
+			(IE blast bricks need nether brick & blaze powder )
+		- add 'A Flint and Steel is not made of Flint and Iron. ;)' to tips.cfg
+	-Guide books
+		- add minecolonies guidebook recipe	
+	-items/ recipes
+		-aluminum block and recipe
+		-platinum block and recipe (ContentTweaker)
+		-cobalt block and recipe
+		-item to ignite portal before acquiring steel - lighter mod
+		-remove stick recipe from planks - alternative recipe
+	-Make recipes more expensive for gating items
+		-Online Picture Frame
+			must include a circuit board or similar
+	-Furnace 
+		make logs be fuel
+Unification / Oredicts
+	-Rustic
+		Oredict fences, gates, stairs
+	-Compost - oreDict (is production/use balanced??)
+		-Change names by use/source?
+		-Add Rockhounding composter inputs
+			-other plants
+			-foods
+		-Add minecolonies compost inputs
+		-remove crafting table recipes Forestry compost	as output 
+		-remove / change crafting table recipes Forestry compost as input (loam, humus)
+		-all compost made in Rockhounding composter or acquired from minecolonies
+		-all compost useable in Forestry Fermenter	
+	-Bees and Honey (Forestry, Rustic, Harvestcraft, BoP, Animania)
+		-Unify, or disable?
+		-Hive generation 
+	-Candles/Wax 
+	-Fishing Rods (Vanilla, JAFF, Aquaculture)
+	-Milk (animania, forestry, harvestcraft, pizzacraft, vanilla)
+	-Ores / Dusts / Nuggets
+		preferred item
+	-Salt (Animania, Floricraft, Rockhounding:Chemistry)
+	-yarn/fiber/string (Floricraft, Immersive Engineering)
+	-cloth/fabric
+	-Hemp seeds (floricraft, IE)
+		fiber, yarn, twine, fabric, cloth, rope
+	-Truffles (Animania, Rockhounding:Surface) 
+		-rockhounding truffles disabled currently
+		-design a solution to keep all truffles
+Mob Spawning
+	Better Animals plus animal spawn changes
+		-reduce boar spawn biomes
+		-add more biomes to hostiles
+	Disable/restrict Mob Spawning overworld - add to Nether spawning
+		-Cave Spiders
+		-Creepers
+		-Enderman
+		-Husk
+		-Illager
+		-Skellies
+		-Spider
+		-Stray
+		-Vex
+		-Witch
+		-Zombies
+		-Zombie Villager
+Minecolonies
+	NPC Names
+Statues
+	Statue core Recipe ?
+	Statue core as mob loot ?
+Advancements
+	-Set all toasts to false
+	-Remove MC advancements related to Wooden Tools  
+	- Triumph
+	-Color change hovering over buttons
+	-Add Advancements related to starting tools
+	-Add Advancements related to iron ore smelting/bloomery
+	-Acquire books
+	-Remove Toast Control - (disable toasts with Triumph)
+
+----------------------------------------------------------------------
+Probable/Possible Additions
+----------------------------------------------------------------------
+Advancement Book
+	Animal Net
+Barrels Drums Storage & More
+Bouncy Creepers
+	Chickens
+	Clothesline
+Controlling
+Culinary Constructs
+	Engineers Tools
+	Factory Tech
+Fancy Block Particles
+Farming for Blockheads
+	Gamestages 
+HarvestWithDispenser
+	Hatchery
+	Immersive Cables (for Refined Storage)
+	Industrial Renewal
+	More Chickens
+	Mowzie's Mobs
+MPUtils
+Open Blocks Elevator
+Organic Creepers
+Phosphor
+	Refined Storage
+	Roost
+Simple Storage Network
+	Smart Crafting Table
+	Snow Variants
+	Statues Rechiseled vs Statues(installed mod)
+Survivalism -TAC
+SwingThroughGrass	
+TipTheScales
+Waddles	
+
+----------------------------------------------------------------------
+Available Machines - Check for CrT support
+----------------------------------------------------------------------
+Cooking for Blockheads
+	-cooking oven
+Forestry (ModTweaker)
+	-Carpenter
+	-Centrifuge
+	-Charcoal Pile
+	-Fermenter
+	-Moistener
+	-Squeezer
+	-Still
+	-Thermionic Fabricator
+Immersive Engineering
+	-Alloy Smelter
+	-Arc Furnace
+	-Blast Furnace
+	-Blueprint
+	-Bottling Machine
+	-Coke Oven
+	-Crusher
+	-Diesel Helper
+	-Excavator
+		excavator
+		mineral mix
+	-Fermenter
+	-Metal Press
+	-Mixer
+	-Refinery
+	-Squeezer
+Immersive Petroleum
+	-Distillation
+	-Fuel Registration
+	-Lubricant
+	-Reservoir
+Rockhounding Chemistry
+	-Chemical Extractor
+	-Crystal Pulling Crucible
+	-ElectroChemical CSTR
+	-Gas Condenser/Expansion Chamber
+	-Gas Purifier
+	-Gasification Plant
+	-Heat Exchanger
+	-Heavy Drum
+	-Lab Blender
+	-Lab Oven
+	-Leaching Vat
+	-Material Cabinet
+	-Metal Alloyer
+	-Mineral Sizer
+	-Pollutant Fluids
+	-Pollutant Gases
+	-Precipitation Chamber
+	-Profiling Bench
+	-Reforming Reactor
+	-Retension Vat
+	-Seasoning Rack
+	-Slurry Pond
+	-Toxic Mutation
+	-Transposer
+	-Vapor Deposition Chamber
+Rockhounding OreTiers
+	-Bloomery
+	-Coal Refiner
+	-Drying Pallet
+Rockhounding Rocks
+	-Carving Bench
+	-Cutting Station
+	-Rock Vending System
+	-Sculpting Bench
+	-Stone Rammer
+Rockhounding Surface
+	-Compost Bin
+	-Vivarium
+	-Wood Incubator
+
+
+Seed for 0_5 : 4007953101682594718
+
+
+TEMPLATE:
+---------------------------------------------------------------------------
+-Version 0.4.1
+Month , 2019
+Forge Version - 14.23.5.2831
+FoamFix Version - 0.10.5
+OptiFine Version - E3
+---------------------------------------------------------------------------
+
+-- Mod Freezes --
+-----------------
+Caliper - 1.1.44 (Type = Release)
+Forge - 14.23.5.2831
+Biomes O' Plenty - 7.0.1.2439 (Type = Release)
+JEI - 4.15.0.268 (Type = Release)
+Wawla - 2.5.271 (Type = Release)
+
+-- Updated Mods --
+------------------
+
+-- Removed Mods --
+------------------
+
+-- Added Mods --
+----------------
+
+
+-- Changes --
+-------------
+CraftTweaker scripts:
+
+Configs:	
