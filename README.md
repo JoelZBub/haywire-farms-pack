@@ -1,4 +1,4 @@
-# Uncle Genny’s 100% Organic & Free-Range Modpack
+# Haywire Farms Modpack 1.12.2
 
 ## Info
 Development files for Haywire Farms Modpack
